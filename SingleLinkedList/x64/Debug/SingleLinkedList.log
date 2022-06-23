@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\SingleLinkedList\SingleLinkedList\main.cpp(4,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  SingleLinkedList.vcxproj -> C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\SingleLinkedList\x64\Debug\SingleLinkedList.exe
